@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\demo\MessageConsumer.class
+com\example\demo\MessageProducer.class
+com\example\demo\RabbitConfig.class
